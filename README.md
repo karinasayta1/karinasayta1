@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Karina</h1>
-<h3 align="center">🚀 Future DevOps Engineer | Building in Public</h3>
-
+<h1 align="center">Hi 👋, I'm Karina Sayta</h1>
+<h3 align="center">Software Engineer building scalable systems with DevOps 🚀</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-## 🔥 About Me  
 
-🚀 I’m on a mission to become a **DevOps Engineer**  
-📚 Currently building my skills through **real-world projects**  
-⚡ I believe in *learning by doing, not just watching*  
+## ## 🚀 About Me
 
-💡 What I focus on daily:
-- Writing **Shell Scripts for automation**
-- Working with **Linux systems**
-- Learning **AWS & Cloud fundamentals**
-- Building consistency through **#90DaysOfDevOps**
+I'm a **Software Engineer at Amdocs** and an **Aspiring DevOps Engineer** from 🇮🇳 India, focused on building reliable CI/CD pipelines, automating workflows, and deploying scalable applications on cloud platforms.
+
+I'm passionate about simplifying complex processes, reducing manual effort, and building efficient, production-ready systems.
+
+🔭 Currently working on CI/CD pipelines, cloud deployments, and DevOps practices
+🌱 Continuously learning AWS, Azure, Docker, and modern DevOps tools
+👯 Looking to collaborate on DevOps and cloud-based projects
+💬 Ask me about CI/CD, Linux, scripting, and cloud deployments
+⚡ Fun fact: I enjoy automating repetitive tasks and turning ideas into real working systems
+
 
 ---
 

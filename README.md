@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karina Sayta</h1>
+<h1 align="center">I'm Karina Sayta</h1>
 <h3 align="center">Software Engineer building scalable systems with DevOps 🚀</h3>
 
 ---
@@ -22,6 +22,9 @@ I'm passionate about simplifying complex processes, reducing manual effort, and 
 ### 💻 Languages & Frameworks  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  
 </p>
 
 ---
@@ -40,10 +43,11 @@ I'm passionate about simplifying complex processes, reducing manual effort, and 
 
 ---
 
-### 📊 Monitoring & Logging  
+### 📊 Monitoring & Databases
 <p>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
 </p>
 
 ---
@@ -51,10 +55,20 @@ I'm passionate about simplifying complex processes, reducing manual effort, and 
 ## 📊 GitHub Stats  
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karinasayta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasayta1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  </div>
+
+<div align="center">
+</div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karinasayta1&theme=tokyonight&hide_border=true" width="420">
 </div>
 
 ---
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karinasayta1&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
 ## 🌐 Connect With Me  
 

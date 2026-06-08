@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karina Sayta</h1>
+<h1 align="center">Hi👋, I'm Karina Sayta</h1>
 <h3 align="center">Software Engineer building scalable systems with DevOps 🚀</h3>
 
 ---
@@ -54,12 +54,12 @@ I'm passionate about simplifying complex processes, reducing manual effort, and 
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinasayta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasayta1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karinasayta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasayta1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karinasayta1&theme=tokyonight&hide_border=true" width="420"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karinasayta1&theme=tokyonight&hide_border=true" />
 </div>
 
 ---

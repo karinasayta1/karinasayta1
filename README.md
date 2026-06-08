@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Karina Sayta</h1>
+<h1 align="center">I'm Karina Sayta</h1>
 <h3 align="center">Software Engineer building scalable systems with DevOps 🚀</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 ---
-
-
-## ## 🚀 About Me
+## 🚀 About Me
 
 I'm a **Software Engineer at Amdocs** and an **Aspiring DevOps Engineer** from 🇮🇳 India, focused on building reliable CI/CD pipelines, automating workflows, and deploying scalable applications on cloud platforms.
 
@@ -22,61 +16,55 @@ I'm passionate about simplifying complex processes, reducing manual effort, and 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-<p>
-💻 Linux & Bash <br>
-🔧 Git & GitHub <br>
-☁️ AWS (Beginner) <br>
-🐍 Python (Basics)
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
+
+### **Databases & Monitoring**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
+## 📊 GitHub Stats
 
-🚀 **90 Days of DevOps**  
-→ Daily hands-on DevOps learning journey  
-
-⚙️ **Shell Scripts**  
-→ Automation scripts (log rotation, backups, cron jobs)  
-
-🐍 **Python Scripts**  
-→ Small automation & utility tools  
-
-📘 **DevOps Notes**  
-→ Notes, cheat sheets, and quick revisions  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karinasayta1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 ---
 
-## 📈 Current Goals  
+## 🌐 Connect With Me
 
-✔ Master Linux & Scripting  
-✔ Build CI/CD pipelines (GitHub Actions)  
-✔ Learn Docker & Containers  
-✔ Work on real DevOps projects  
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/afroz-j-shaikh/](https://www.linkedin.com/in/karina-sayta/))
+[![Email](https://img.shields.io/badge/Email-afsk1997@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinasayta85@gmail.com)
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🔗 Connect With Me  
+<div align="center">
+  
+### ✨ *“Learning by building — one container, one pipeline, one deployment at a time.”*
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-## ⚡ Personal Motto  
-
+</div>
 > “Consistency compounds. Small efforts daily → big results.”
